@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    margin: 0%;
+}
+
+form{
+    text-align: center;
+   align-items: center;
+   width: 70%;
+   margin: 0% auto;
+   /* background-color: aliceblue; */
+}
+label{
+    padding: 5px solid rgb(15, 6, 97);;
+    margin: 0% auto; 
+   
+}
+h1{
+    text-align: center;
+    border: 2px solid blue
+}
+h2{
+    text-align: center;
+}
+.sayt-logosi{
+   width: 100px; 
+   height: 100px;
+   display: flex;
+}
+.box1{
+    background-color: aliceblue;  
+}
+img{
+    width: 200;
+    height: 200;
+}
+.logoins{
+    display: flex;
+    list-style: none;
+}
+section{
+   border: 2px solid blue; 
+   padding: 10px;
+}
+.logoins li img{
+    width: 20px;
+    height: 20px;
+    border: 10px;
+}
+.boxend{
+    border: 2px solid black;
+    padding: 5px;
+}
+ 
