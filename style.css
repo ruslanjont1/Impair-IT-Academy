@@ -43,12 +43,30 @@ section{
    padding: 10px;
 }
 .logoins li img{
-    width: 20px;
+    width: 100%;
     height: 20px;
     border: 10px;
 }
 .boxend{
     border: 2px solid black;
     padding: 5px;
+    display: flex;
+    margin: 5px ;
 }
- 
+.logoins .boxone{
+    padding: 3px;
+    border: 2px solid black;
+    border-radius: 30%;
+    margin: 5px;
+}
+.logoins .boxthu{
+    padding: 3px; 
+    border: 2px solid black;
+    border-radius: 30%;
+    margin: 5px ;
+}
+ .tell{
+    /* border: 2px solid black; */
+    /* border-radius: 30%; */
+    padding: 3px;
+ }
